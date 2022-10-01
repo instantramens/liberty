@@ -10,10 +10,10 @@ Example:
 
 > ### Manual Link
 >
-> `https://railway.app/new/template?template=https://github.com/[GITHUB USERNAME]/Ultraviolet-Node`
+> `https://heroku.com/deploy/?template=https://github.com/[GITHUB USERNAME]/Ultraviolet-Node`
 
 I fork this repository under my account. The link is https://github.com/e9x/Ultraviolet-Node.
 
-I replace `[GITHUB USERNAME]` in the link from [Manual Link](#manual-link) with my account name (e9x). My link is now https://railway.app/new/template?template=https://github.com/e9x/Ultraviolet-Node.
+I replace `[GITHUB USERNAME]` in the link from [Manual Link](#manual-link) with my account name (e9x). My link is now `https://heroku.com/deploy/?template=https://github.com/e9x/Ultraviolet-Node`.
 
 If you forked this repository under a name other than Ultraviolet-Node, replace `Ultraviolet-Node` in the link with your fork's name.
