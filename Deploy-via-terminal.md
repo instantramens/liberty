@@ -10,7 +10,7 @@ Deploying Ultraviolet through a terminal is made easy.
 ## Clone
 
 ```sh
-$ git clone https://github.com/titaniumnetwork-development/Ultraviolet-Node.git
+$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Node.git
 > Cloning into Ultraviolet-Node...
 $ cd Ultraviolet-Node
 ```

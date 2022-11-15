@@ -1,4 +1,4 @@
-You can explore other options for deployment [here](https://github.com/titaniumnetwork-development/Ultraviolet-Node#deployment).
+You can explore other options for deployment [here](https://github.com/titaniumnetwork-dev/Ultraviolet-Node#deployment).
 
 ## Static Hosting
 

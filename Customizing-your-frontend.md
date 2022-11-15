@@ -1,6 +1,6 @@
 # Customizing your frontend
 
-The static files (frontend) is generated in the [Ultraviolet-Static](https://github.com/titaniumnetwork-development/Ultraviolet-Static) repository. You can follow the instructions within the repository to modify the frontend here.
+The static files (frontend) is generated in the [Ultraviolet-Static](https://github.com/titaniumnetwork-dev/Ultraviolet-Static) repository. You can follow the instructions within the repository to modify the frontend here.
 
 ## Walkthrough
 
@@ -9,7 +9,7 @@ Follow the instructions for deployment found in other pages of the wiki. The fol
 1. Clone Ultraviolet-Static
 
 ```sh
-$ git clone https://github.com/titaniumnetwork-development/Ultraviolet-Static.git
+$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Static.git
 > Cloning into Ultraviolet-Static...
 $ cd Ultraviolet-Static
 ```

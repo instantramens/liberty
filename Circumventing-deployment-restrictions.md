@@ -2,8 +2,8 @@ We encourage you to fork this repository before attempting to deploy to any of t
 
 How to deploy your forked repository:
 
-1. [Fork this repository](https://github.com/titaniumnetwork-development/Ultraviolet-Node/fork).
-2. Go to any deployment page in [the wiki](https://github.com/titaniumnetwork-development/Ultraviolet-Node/wiki).
+1. [Fork this repository](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/fork).
+2. Go to any deployment page in [the wiki](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/wiki).
 3. Replace `[GITHUB USERNAME]` with your GitHub username.
 
 Example:
