@@ -10,9 +10,9 @@ Deploying Ultraviolet through a terminal is made easy.
 ## Clone
 
 ```sh
-$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Node.git
-> Cloning into Ultraviolet-Node...
-$ cd Ultraviolet-Node
+$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-App.git
+> Cloning into Ultraviolet-App...
+$ cd Ultraviolet-App
 ```
 
 ## Install

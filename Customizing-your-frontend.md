@@ -4,7 +4,7 @@ The static files (frontend) is generated in the [Ultraviolet-Static](https://git
 
 ## Walkthrough
 
-Follow the instructions for deployment found in other pages of the wiki. The following steps assume you are in a directory containing the content of Ultraviolet-Node.
+Follow the instructions for deployment found in other pages of the wiki. The following steps assume you are in a directory containing the content of Ultraviolet-App.
 
 1. Clone Ultraviolet-Static
 
@@ -30,7 +30,7 @@ The content inside `Ultraviolet-Static/public/` may be modified. This directory 
 
 You should only have to do this once. Any future changes to `Ultraviolet-Static/public/` will immediately take effect.
 
-Enter the Ultraviolet-Node directory:
+Enter the Ultraviolet-App directory:
 
 ```sh
 $ cd ..

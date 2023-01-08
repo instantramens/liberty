@@ -1,13 +1,13 @@
 # Manual Link
 
-`https://github.com/[GITHUB USERNAME]/Ultraviolet-Node.git`
+`https://github.com/[GITHUB USERNAME]/Ultraviolet-App.git`
 
 # Using templates
 
 1. Go to the [template creation page](https://railway.app/button).
 2. Scroll down to Services
-3. Enter "Ultraviolet-Node" in Service Name
-4. Enter `https://github.com/titaniumnetwork-dev/Ultraviolet-Node.git` (or your MANUAL LINK if you forked) in Repository URL
+3. Enter "Ultraviolet-App" in Service Name
+4. Enter `https://github.com/titaniumnetwork-dev/Ultraviolet-App.git` (or your MANUAL LINK if you forked) in Repository URL
 5. Click on Add Service
 6. Click on Create Template
 7. Open link to template

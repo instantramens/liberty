@@ -1,8 +1,8 @@
-# [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/titaniumnetwork-dev/Ultraviolet-Node)
+# [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/titaniumnetwork-dev/Ultraviolet-App)
 
 # Manual Link
 
-`https://heroku.com/deploy/?template=https://github.com/[GITHUB USERNAME]/Ultraviolet-Node`
+`https://heroku.com/deploy/?template=https://github.com/[GITHUB USERNAME]/Ultraviolet-App`
 
 # Beware
 

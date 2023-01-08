@@ -1,8 +1,8 @@
-# [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/titaniumnetwork-dev/Ultraviolet-Node)
+# [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/titaniumnetwork-dev/Ultraviolet-App)
 
 # Manual Link
 
-`https://glitch.com/edit/#!/import/github/[GITHUB USERNAME]/Ultraviolet-Node`
+`https://glitch.com/edit/#!/import/github/[GITHUB USERNAME]/Ultraviolet-App`
 
 # Guide
 

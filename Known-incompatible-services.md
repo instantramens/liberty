@@ -1,4 +1,4 @@
-You can explore other options for deployment [here](https://github.com/titaniumnetwork-dev/Ultraviolet-Node#deployment).
+You can explore other options for deployment [here](https://github.com/titaniumnetwork-dev/Ultraviolet-App#deployment).
 
 ## Static Hosting
 
@@ -6,12 +6,12 @@ Many static website solutions will compile websites using a dedicated container/
 
 ---
 
-Known services that Ultraviolet-Node can't be deployed to:
+Known services that Ultraviolet-App can't be deployed to:
 
 ### Vercel
 
-Vercel cannot start Ultraviolet-Node because Vercel is a [static host](#static-hosting).
+Vercel cannot start Ultraviolet-App because Vercel is a [static host](#static-hosting).
 
 ### Cloudflare Pages
 
-Cloudflare Pages cannot start Ultraviolet-Node because Cloudflare Pages is a [static host](#static-hosting).
+Cloudflare Pages cannot start Ultraviolet-App because Cloudflare Pages is a [static host](#static-hosting).
