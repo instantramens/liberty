@@ -9,15 +9,14 @@ Follow the instructions for deployment found in other pages of the wiki. The fol
 1. Clone Ultraviolet-Static
 
 ```sh
-$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Static.git
-> Cloning into Ultraviolet-Static...
-$ cd Ultraviolet-Static
+git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Static.git
+cd Ultraviolet-Static
 ```
 
 2. Install dependencies
 
 ```sh
-$ npm install
+npm install
 ```
 
 3. Make your changes
@@ -33,17 +32,17 @@ You should only have to do this once. Any future changes to `Ultraviolet-Static/
 Enter the Ultraviolet-App directory:
 
 ```sh
-$ cd ..
+cd ..
 ```
 
 Install the new module:
 
 ```sh
-$ npm install ./Ultraviolet-Static
+npm install ./Ultraviolet-Static
 ```
 
 5. Start
 
 ```sh
-$ npm start
+npm start
 ```

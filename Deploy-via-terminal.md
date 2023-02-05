@@ -1,7 +1,5 @@
 Deploying Ultraviolet through a terminal is made easy.
 
-> Don't copy the `$` in any of these commands when pasting in a terminal.
-
 ## If you opened this repository in Replit:
 
 - skip the [clone](#clone) step, start at [install](#install)
@@ -10,21 +8,20 @@ Deploying Ultraviolet through a terminal is made easy.
 ## Clone
 
 ```sh
-$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-App.git
-> Cloning into Ultraviolet-App...
-$ cd Ultraviolet-App
+git clone https://github.com/titaniumnetwork-dev/Ultraviolet-App.git
+cd Ultraviolet-App
 ```
 
 ## Install
 
 ```sh
-$ npm install
+npm install
 ```
 
 > If this takes long, you may attempt to omit dev dependencies:
 
 ```sh
-$ npm install --omit=dev
+npm install --omit=dev
 ```
 
 ## Start
@@ -32,11 +29,11 @@ $ npm install --omit=dev
 Once dependencies are installed, select the "Run" button on Replit or run:
 
 ```sh
-$ npm start
+npm start
 ```
 
 Alternatively, run on a port:
 
 ```sh
-$ PORT=8000 npm start
+PORT=8000 npm start
 ```
