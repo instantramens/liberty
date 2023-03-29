@@ -17,7 +17,7 @@ This approach assumes the following:
 
 - **You have configured Ultraviolet-App to listen on port 80.**
 
-> If you don't have any of the above, **THIS WILL NOT WORK**.
+> If you don't have any of the above, **THIS WILL NOT WORK without modifications**.
 
 This is by the easiest method, which involves letting Cloudflare handle SSL for you.
 
@@ -39,7 +39,7 @@ This approach assumes the following:
 
 - **You have configured Ultraviolet-App to listen on port 8080.**
 
-> If you don't have any of the above, **THIS WILL NOT WORK**.
+> If you don't have any of the above, **THIS WILL NOT WORK without modifications**.
 
 This approach is more advanced.
 
