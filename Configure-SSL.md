@@ -61,29 +61,29 @@ Instructions:
       server_name www.example.com example.com;
       listen 80;
 
-         # Redirect users on www.example.com to example.com
-         # (www to apex record)
-         if ($http_host ~ ^www\.(?<domain>.+)$ ) {
-            return 301 https://$domain$request_uri;
-         }
+      # Redirect users on www.example.com to example.com
+      # (www to apex record)
+      if ($http_host ~ ^www\.(?<domain>.+)$ ) {
+         return 301 https://$domain$request_uri;
+      }
 
-         location / {
-            # Generic configuration for proxy:
-            # Upgrade WebSockets
-            proxy_set_header Upgrade $http_upgrade;
-            proxy_set_header Connection 'Upgrade';
-            # Increase header buffer
-            proxy_connect_timeout 10;
-            proxy_send_timeout 90;
-            proxy_read_timeout 90;
-            proxy_buffer_size 128k;
-            proxy_buffers 4 256k;
-            proxy_busy_buffers_size 256k;
-            proxy_temp_file_write_size 256k;
+      location / {
+         # Generic configuration for proxy:
+         # Upgrade WebSockets
+         proxy_set_header Upgrade $http_upgrade;
+         proxy_set_header Connection 'Upgrade';
+         # Increase header buffer
+         proxy_connect_timeout 10;
+         proxy_send_timeout 90;
+         proxy_read_timeout 90;
+         proxy_buffer_size 128k;
+         proxy_buffers 4 256k;
+         proxy_busy_buffers_size 256k;
+         proxy_temp_file_write_size 256k;
 
-            # show Ultraviolet-App:
-            proxy_pass http://Ultraviolet-App;
-         }
+         # show Ultraviolet-App:
+         proxy_pass http://Ultraviolet-App;
+      }
     }
    ```
 
